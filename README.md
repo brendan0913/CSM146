@@ -1,2 +1,2 @@
 # CSM146
-Problem sets (with code) for Machine Learning Class at UCLA
+Problem sets (with code) for Intro to Machine Learning class at UCLA
